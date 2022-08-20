@@ -1,11 +1,11 @@
 [[redirects]]
   from = "/robots.txt"
-  to = "https://raw.githubusercontent.com/izulwahidin/Netlify-Reverse-Proxy/main/robots.txt"
+  to = "https://raw.githubusercontent.com/dewi60/Netlify-Reverse-Proxy/main/robots.txt"
   status = 200
   force = true
   
 [[redirects]]
   from = "/*"
-  to = "http://dev-beritadunia.pantheonsite.io/:splat"
+  to = "https://dev-topikhangat.pantheonsite.io/:splat"
   status = 200
   force = true
